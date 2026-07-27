@@ -1,0 +1,20 @@
+{
+  "name": "tradehub",
+
+  "compatibility_date": "2026-07-27",
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "tradehub",
+      "database_id": "YOUR_DATABASE_ID"
+    }
+  ],
+
+  "r2_buckets": [
+    {
+      "binding": "IMAGES",
+      "bucket_name": "tradehub-images"
+    }
+  ]
+}
